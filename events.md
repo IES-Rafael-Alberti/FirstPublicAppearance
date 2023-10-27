@@ -2,6 +2,7 @@ EVENTOS
 
 
 IDEAS DE PROMOCIÓN
+
 Para atraer la atención del público a nuestro stand, este contaría con tres puntos clave:
 
 -El de mayor importancia sería la realización de un torneo en vivo de nuestro videojuego entre los asistentes que descarguen el mismo; con una final en físico a través de un tablero del juego impreso en 3D para el evento, el cual adornaría el stand y sería el premio final de la competición.
