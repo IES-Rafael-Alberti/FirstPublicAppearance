@@ -1,5 +1,11 @@
 EVENTOS
 
+Los tres eventos a los que atenderíamos principalmente serían:
+Gamergy, debido a que su enfoque es a videojuegos y juegos de azar, entre los cuales se podría situar nuestro juego, ya que pese a ser un juego estratégico requiere que el jugador se adapte a las habilidades que le salgan tras tirar los dados.
+
+Ficzone, el cual es un evento un poco más pequeño pero que abarca otras temáticas aparte de videojuegos, el cual podría resultar óptimo para introducir el juego a otro público, ya que uno de los puntos fuertes del mismo es que es un juego bastante casual, al que todo el mundo debería poder jugar sin problemas ni requisitos de ningún tipo.
+
+Y por último Guerrilla Game Festival, el cual se centra en conferencias y exposiciones de juegos indie, y a su vez en el networking entre desarrolladores y empresas indie, lo cual nos podría resultar beneficioso una vez probado el juego en otros dos eventos previos y tras ver como se recibe el mismo.
 
 IDEAS DE PROMOCIÓN
 
